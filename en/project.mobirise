@@ -16,7 +16,7 @@
         "display1Font": "Open Sans",
         "display1Size": 4.8,
         "display2Font": "Open Sans",
-        "display2Size": 3.6,
+        "display2Size": "3.4",
         "display5Font": "Open Sans",
         "display5Size": "2",
         "display7Font": "Open Sans",
@@ -83,7 +83,7 @@
     "global_footer_custom": "<script  src=\"https://cdn.ratina.co/js/helper-v11.js?c=b&l=en\" ></script>",
     "global_header_custom": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"></script>",
     "uniqCompNum": 59,
-    "versionPublish": "5.4.1",
+    "versionPublish": "5.6.13",
     "screenshot": "screenshot.png"
   },
   "pages": {

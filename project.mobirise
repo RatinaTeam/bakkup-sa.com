@@ -64,6 +64,12 @@
         "name": "ArbFONTS-Montserrat-Arabic-Light",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/ArbFONTS-Montserrat-Arabic-Light/font.ttf"
+      },
+      {
+        "css": "'ArbFONTS-Montserrat-Arabic-Light'",
+        "name": "ArbFONTS-Montserrat-Arabic-Light",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/ArbFONTS-Montserrat-Arabic-Light/font.ttf"
       }
     ],
     "imageResize": true,
@@ -78,7 +84,7 @@
     "global_footer_custom": "<script  src=\"https://cdn.ratina.co/js/helper-v11.js?c=b&l=en\" ></script>",
     "global_header_custom": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"></script>",
     "uniqCompNum": 59,
-    "versionPublish": "5.4.1",
+    "versionPublish": "5.6.13",
     "screenshot": "screenshot.png"
   },
   "pages": {
