@@ -94,12 +94,12 @@
       "settings": {
         "main": true,
         "title": "BAKKUP | Comprehensive Support Trading Co.",
-        "meta_descr": "Comprehensive food solutions that include a wide range of high-quality food products in various categories, including meats, cheeses, oils, baked goods, seafood, and beverages. This diverse selection meets various cooking needs.",
+        "meta_descr": "BAKKUP | Comprehensive food solutions that include a wide range of high-quality food products in various categories, including meats, cheeses, oils, baked goods, seafood, and beverages. This diverse selection meets various cooking needs.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/1-1063x649.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/1-1200x1200.png"
       },
       "components": [
         {
@@ -2143,7 +2143,8 @@
     "page1.html": {
       "settings": {
         "title": "طلب خدمة",
-        "order": "2"
+        "order": "2",
+        "meta_descr": ""
       },
       "components": [
         {
