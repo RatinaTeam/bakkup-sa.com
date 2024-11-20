@@ -75,7 +75,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/bakkup-logo-70x70.png",
-    "mbrsiteDomain": "xshetpq0qs",
+    "mbrsiteDomain": "5tgzkhpoud",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -99,7 +99,7 @@
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/1-1200x1200.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/1-1200x1200.jpg"
       },
       "components": [
         {

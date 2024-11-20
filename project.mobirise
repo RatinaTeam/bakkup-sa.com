@@ -97,7 +97,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/2-1200x1200.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/2-1200x1200.jpg"
       },
       "components": [
         {
