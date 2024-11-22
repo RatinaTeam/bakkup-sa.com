@@ -94,7 +94,7 @@
         "main": true,
         "title": "BAKKUP | شركة المساندة الشاملة التجارية",
         "meta_descr": "في BAKKUP حلول غذائية شاملة تشمل مجموعة واسعة من المنتجات الغذائية عالية الجودة في عدة فئات، بما في ذلك اللحوم، والأجبان، والزيوت، والمخبوزات، والمأكولات البحرية، والمشروبات. هذه المجموعة المتنوعة تلبي احتياجات الطهي المختلفة.",
-        "header_custom": "",
+        "header_custom": "<link rel=\"canonical\" href=\"https://bakkup-sa.com/index.html\" />",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/2-1200x1200.jpg"
